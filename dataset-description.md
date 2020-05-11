@@ -1,0 +1,1 @@
+> The bipartisan CARES Act and the Paycheck Protection Program and Health Care Enhancement Act provided $175 billion in relief funds to hospitals and other healthcare providers on the front lines of the coronavirus response. $2 billion of these payments was distributed to these hospitals based on their Medicare disproportionate share and uncompensated care payments.
