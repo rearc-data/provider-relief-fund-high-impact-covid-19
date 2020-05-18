@@ -6,7 +6,7 @@
 
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-aycz6azozcz6m](https://aws.amazon.com/marketplace/pp/prodview-aycz6azozcz6m). 
 
-## Main Overview:
+## Main Overview
 > The bipartisan CARES Act and the Paycheck Protection Program and Health Care Enhancement Act provided $175 billion in relief funds to hospitals and other healthcare providers on the front lines of the coronavirus response. The payments form the $12 billion COVID-19 High-Impact Allocation is being distributed by the Department of Health and Human Services through the Health Resources and Services Administration to 395 hospitals who provided inpatient care for 100 or more COVID-19 patients through April 10, 2020. $2 billion of these payments was distributed to these hospitals based on their Medicare disproportionate share and uncompensated care payments. These 395 hospitals accounted for 71 percent of COVID-19 inpatient admissions reported to HHS from nearly 6,000 hospitals around the country. ([Source](https://data.cdc.gov/Administrative/Provider-Relief-Fund-COVID-19-High-Impact-Payments/b58h-s9zx))
 
 Centers for Disease Control and Prevention provides free and open access to various health related data. If you are intersted in learning more about datasets released by the CDC, please visit the [page on the CDC Data Homepage](https://data.cdc.gov).
