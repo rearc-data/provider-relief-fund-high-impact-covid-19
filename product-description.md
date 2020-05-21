@@ -19,7 +19,7 @@ This resource is presented in CSV and JSON format. The included dataset has the 
 - Source - [Data | Provider Relief Fund COVID-19 High-Impact Payments](https://data.cdc.gov/Administrative/Provider-Relief-Fund-COVID-19-High-Impact-Payments/b58h-s9zx) 
 - [Terms of Use](https://www.usa.gov/government-works)
 - [CDC Data Homepage](https://data.cdc.gov/)
-- Frequency: Never
+- Frequency: One Time
 - Formats: CSV, JSON
 
 ## Contact Details
